@@ -1,0 +1,18 @@
+@import "@porsche-design-system/components-react/index.css";
+
+:not(:defined, [data-ssr]) {
+  visibility: hidden;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  min-height: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}

@@ -1,0 +1,9 @@
+.main {
+  display: flex;
+  min-height: 100dvh;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--p-spacing-fluid-sm);
+  padding: var(--p-spacing-fluid-lg) var(--p-spacing-fluid-md);
+  text-align: center;
+}
