@@ -3,7 +3,7 @@
   "configurations": [
     {
       "name": "tic-tac-toe",
-      "runtimeExecutable": "C:\\Program Files\\nodejs\\npm.cmd",
+      "runtimeExecutable": "npm",
       "runtimeArgs": ["--prefix", "app", "run", "dev"],
       "port": 3000
     }
